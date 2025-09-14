@@ -15,7 +15,7 @@ The goal is to demonstrate end-to-end data analysis and visualization skills for
 - **GitHub**: Project documentation & version control  
 
 ## 🔹 Dataset
-- Source: (https://docs.google.com/spreadsheets/d/14vmQPTG7jN-1VnIBrNDjZ7L6vqLZnVYA/edit?gid=1675989236#gid=1675989236) Ecommerce Dataset
+- Source: [Ecommerce Dataset](https://docs.google.com/spreadsheets/d/14vmQPTG7jN-1VnIBrNDjZ7L6vqLZnVYA/edit?gid=1675989236#gid=1675989236)
 - Includes: Orders, Customers, Products, Shipping, Regions  
 
 ## 🔹 Key Visuals
@@ -29,15 +29,25 @@ The goal is to demonstrate end-to-end data analysis and visualization skills for
 ## 🔹 Project Structure
 
 Ecommerce-Sales-Analysis/
+
 ├── data/
+
 │ ├── raw/
+
 │ ├── processed/
+
 ├── reports/
+
 │ ├── Ecommerce_Analysis.pbix
+
 │ ├── Ecommerce_Analysis.pdf
+
 ├── docs/
+
 │ ├── screenshots/
+
 │ ├── summary.md
+
 └── README.md
 
 
