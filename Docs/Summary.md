@@ -1,68 +1,46 @@
-Insights Summary – E-commerce Dashboard
+# 📊 Insights Summary – E-commerce Dashboard  
 
-This document summarizes the key findings from each page of the Power BI dashboard.
-The insights are derived from analyzing sales, profit, customer behavior, product performance, and shipping trends in the dataset.
+This document summarizes the key findings from each page of the Power BI dashboard.  
+The insights are derived from analyzing sales, profit, product performance, and shipping trends in the dataset.  
 
-🔹 Page 1: Executive Overview
+---
 
-Purpose: Provide a high-level summary of sales, profit, and order performance.
+## 🔹 Page 1: Executive Overview  
+**Purpose:** Provide a high-level summary of sales, profit, and order performance.  
 
-Key Insights
+**Key Insights**  
+- Total Sales = **2.21M**, Profit = **349K**, with a Profit Margin of **16%**.  
+- Sales show steady growth over time, with clear seasonal peaks.  
+- Profitability margins vary across months, indicating scope for cost optimization in low-demand periods.  
+- Technology contributes the most sales, followed by Furniture and Office Supplies.  
 
-Total Sales and Profit follow a seasonal trend, with Q4 showing the highest spikes.
+---
 
-Orders are growing year-over-year, indicating a healthy customer base expansion.
+## 🔹 Page 2: Category & Product Analysis  
+**Purpose:** Understand which products and categories drive business.  
 
-Profitability margins vary across months, suggesting scope for cost optimization in off-peak seasons.
+**Key Insights**  
+- **Technology** dominates sales (**1.01M**), followed by Furniture (**779K**) and Office Supplies (**420K**).  
+- **Profitability Gap:** Furniture and some Office Supplies sub-categories show weak margins despite good sales.  
+- A few **top-performing products** drive most of the profit, while several others incur losses.  
+- Sub-category analysis highlights **Phones and Chairs** as revenue leaders, while **Tables** drag profitability.  
+- Higher discounts negatively impact profit margins across multiple product lines.  
 
-🔹 Page 2: Product Performance
+---
 
-Purpose: Understand which products and categories drive business.
+## 🔹 Page 3: Geography & Shipping Analysis  
+**Purpose:** Evaluate sales distribution across regions and the impact of shipping modes.  
 
-Key Insights
+**Key Insights**  
+- Sales are concentrated in major regions, with specific states driving disproportionate volumes.  
+- **Standard Class** shipping dominates with the highest share of orders.  
+- **Same Day shipping**, while convenient, reduces profitability and signals inefficiency.  
+- Regional breakdown suggests expansion opportunities in underperforming markets.  
 
-Technology category dominates sales, contributing the largest share of revenue.
+---
 
-Furniture drags profitability despite strong sales, indicating high cost or discounts.
-
-A few top-performing products generate most of the profit, while several others show negative margins.
-
-Sub-category analysis shows Phones and Chairs as revenue leaders but Tables underperform in profit.
-
-🔹 Page 3: Geography & Shipping Analysis
-
-Purpose: Evaluate sales distribution across regions and impact of shipping modes.
-
-Key Insights
-
-Sales are concentrated in major countries/regions, with the US (or main market) being the top contributor.
-
-Standard Class shipping is the most preferred, handling the majority of orders.
-
-Same Day shipping, while fast, reduces profit margins, highlighting inefficiencies.
-
-Regional treemap suggests that a few states drive disproportionate sales, showing opportunities to expand in underperforming areas.
-
-🔹 Page 4: Customer Insights
-
-Purpose: Analyze customer segments, loyalty, and purchasing behavior.
-
-Key Insights
-
-Corporate customers generate higher average order values compared to Home Office and Consumer segments.
-
-A small group of top customers accounts for a significant share of sales.
-
-Profitability varies widely between customers, indicating the need for targeted promotions or loyalty programs.
-
-Segment analysis suggests Corporate is the most profitable, while Home Office lags in contribution.
-
-🏆 Overall Business Takeaways
-
-Technology products and Corporate customers are the biggest revenue drivers.
-
-Furniture and Same Day shipping are profit leakages that need strategic review.
-
-There is clear seasonality in demand, with Q4 being the best time for promotions.
-
-Geographic analysis reveals untapped markets, suggesting room for expansion.
+## 🏆 Overall Business Takeaways  
+- **Technology products** remain the strongest revenue drivers.  
+- **Furniture and Same Day shipping** reduce profitability and need review.  
+- **Seasonality is strong** with Q4 as the best period for promotions.  
+- **Geographic insights** reveal potential for growth in less tapped regions.  
