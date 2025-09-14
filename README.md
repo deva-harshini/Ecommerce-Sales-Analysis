@@ -66,5 +66,11 @@ Ecommerce-Sales-Analysis/
 - Optimize shipping methods for better profit margins.  
 
 ---
-👨‍💻 *Developed by Deva Harshini*  
+📌 Author
+
+Name: Deva Harshini
+
+Email: devaharshini03@gmail.com
+
+LinkedIn: www.linkedin.com/in/mandali-deva-harshini
 
