@@ -31,23 +31,25 @@ The goal is to demonstrate end-to-end data analysis and visualization skills for
 Ecommerce-Sales-Analysis/
 
 ├── data/
-
+│
 │ ├── raw/
-
+│
 │ ├── processed/
-
+│
 ├── reports/
-
+│
 │ ├── Ecommerce_Analysis.pbix
-
+│
 │ ├── Ecommerce_Analysis.pdf
-
+│
 ├── docs/
-
+│
 │ ├── screenshots/
-
+│
 │ ├── summary.md
-
+│
+├── Licence
+│
 └── README.md
 
 
